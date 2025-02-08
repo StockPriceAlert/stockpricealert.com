@@ -1,0 +1,10 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "stockpricealert",
+      "package_name": "in.richguy.stockpricealert",
+      "sha256_cert_fingerprints": ["80:01:D0:37:B3:F0:6F:E8:5F:E2:DB:24:3E:48:3D:23:4B:50:86:A5:AB:24:53:BD:1E:9B:E0:B8:50:91:81:AF"]
+    }
+  }
+]
